@@ -5,7 +5,7 @@
 //   return reverseStr === lowRegStr;
 // }
 
-
+//PROVE DI CODICE X PALINDROMO
 var ciao = 'ciao';
 var ris = ciao.split(''); //Con split creo un array di tutte le parole divise di ciao
 var rev = ris.reverse(); // con reverse metto al contrario tutte le parole
